@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving)](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving/issues/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-![overview](Figs/overview.JPG)
+![overview](Figs/自动驾驶系统_图.png)
 
 This repository is with our [survey paper](https://arxiv.org/abs/2206.09474):
 
