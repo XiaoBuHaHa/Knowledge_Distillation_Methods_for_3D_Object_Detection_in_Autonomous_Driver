@@ -7,8 +7,8 @@
 This repository is with our [survey paper](https://arxiv.org/abs/2206.09474):
 
 > **Title:** 3D Object Detection for Autonomous Driving: A Comprehensive Survey <br>
-> **Authors:** Jiageng Mao, Shaoshuai Shi, Xiaogang Wang, Hongsheng Li<br>
-> **Publication:** International Journal of Computer Vision (IJCV) <br>
+> **Authors:** Changhong Bu, Weiqing Yan<br>
+> **Publication:** None <br>
 
 a.k.a
 
