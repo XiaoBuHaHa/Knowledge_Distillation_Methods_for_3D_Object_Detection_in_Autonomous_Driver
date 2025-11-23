@@ -76,7 +76,7 @@ A chronological overview of the most prestigious LiDAR-based 3D object detection
 
 ### Point-based 3D object detection [[Papers]](Docs/Sensor/LiDAR/point_view.md)
 
-![](Figures/Point_based)
+![](Figures/Point_based.png)
 
 A general point-based detection framework contains a point-based backbone network and a prediction head. The point-based backbone consists of several blocks for point cloud
 sampling and feature learning, and the prediction head directly estimates 3D bounding boxes from the candidate points. [[Back to content]](#0)
