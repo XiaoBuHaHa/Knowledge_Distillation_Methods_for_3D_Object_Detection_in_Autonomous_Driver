@@ -52,7 +52,9 @@ We also provide a paper collection on 3D object detection for autonomous driving
   
 
 # The Paradigm of 3D Object Detection
+None
 
+## LiDAR-based 3D Object Detection
 <a name="1"></a>
 
 This is the mainstream 3D object detection paradigm in 3D, mainly including three types. 
