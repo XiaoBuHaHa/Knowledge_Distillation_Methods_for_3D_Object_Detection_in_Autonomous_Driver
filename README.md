@@ -24,50 +24,41 @@ We also provide a paper collection on 3D object detection for autonomous driving
         - [1.1.1 Point-based 3D object detection](#1.1.1)
         - [1.1.2 Grid-based 3D object detection](#1.1.2)
         - [1.1.3 Point-voxel based 3D object detection](#1.1.3)
-    - [1.2 Camera-based 3D Object Detection](#2.1)
-        - [1.1.1 Monocular 3D object detection](#2.1.1)
-        - [1.1.2 Stereo-based 3D object detection](#2.1.2)
-        - [1.1.3 Multi-view 3D object detection](#2.1.3)
+    - [1.2 Camera-based 3D Object Detection](#1.2)
+        - [1.2.1 Monocular 3D object detection](#1.2.1)
+        - [1.2.2 Stereo-based 3D object detection](#1.2.2)
+        - [1.2.3 Multi-view 3D object detection](#1.2.3)
     - [1.3 Multi-Modal 3D Object Detection](#1.3)
-        - [1.1.1 Early-fusion based 3D object detection](#1.3.1)
-        - [1.1.2 Intermediate-fusion based 3D object detection](#1.3.2)
-        - [1.1.3 Late-fusion based 3D object detection](#1.3.3)
-- [2. Camera-based 3D Object Detection](#2)
-    - [2.1 Monocular 3D object detection](#2)
-    - [2.2 Stereo-based 3D object detection](#2.4)
-    - [2.3 Multi-camera 3D object detection](#2.4)
-- [3. Multi-Modal 3D Object Detection](#3)
-    - [3.1 Early-fusion based 3D object detection](#3.1)
-    - [3.1 Intermediate-fusion based 3D object detection](#3.1)
-    - [3.1 Late-fusion based 3D object detection](#3.1)
-- [4. What is Knowledge Distillation (Feature distillation,Relation distillation,Respond distillation) ](#4)
-    - [4.1 Feature distillation](#4.1)
-    - [4.2 Relation distillation](#4.2)
-    - [4.3 Respond distillation](#4.2)
-- [5. LIDAR to LIDAR Knowledge Distillation for 3D Detection](#5)
-    - [5.1 Less channels with distillation](#5.1)
-    - [5.2 Pruning with Distillation](#5.2)
-    - [5.3 Quantification with Distillation](#5.3)
-- [6. LIDAR to Camera Knowledge Distillation for 3D Detection](#6)
-    - [6.1 LIDAR to monocular image for 3D object detection](#6.1)
-    - [6.2 LIDAR to stereo image for 3D object detection](#6.1)
-    - [6.3 LIDAR to multi-view image for 3D object detection](#6.1)
-- [7. LIDAR-Based-Multi-Modal to other Modal Knowledge Distillation for 3D Detection ](#6)
-    - [6.1 LIDAR-Camera Fusion to LIDAR](#6.1)
-    - [6.2 LIDAR-Camera Fusion to Camera](#6.1)
+        - [1.3.1 Early-fusion based 3D object detection](#1.3.1)
+        - [1.3.2 Intermediate-fusion based 3D object detection](#1.3.2)
+        - [1.3.3 Late-fusion based 3D object detection](#1.3.3)
+- [2. What is Knowledge Distillation (Feature distillation,Relation distillation,Respond distillation) ](#2)
+    - [2.1 Feature distillation](#2.1)
+    - [2.2 Relation distillation](#2.2)
+    - [2.3 Respond distillation](#2.3)
+- [3. LIDAR to LIDAR Knowledge Distillation for 3D Detection](#3)
+    - [3.1 Less channels with distillation](#3.1)
+    - [3.2 Pruning with Distillation](#3.2)
+    - [3.3 Quantification with Distillation](#3.3)
+- [4. LIDAR to Camera Knowledge Distillation for 3D Detection](#4)
+    - [4.1 LIDAR to monocular image for 3D object detection](#4.1)
+    - [4.2 LIDAR to stereo image for 3D object detection](#4.2)
+    - [4.3 LIDAR to multi-view image for 3D object detection](#4.3)
+- [5. LIDAR-Based-Multi-Modal to other Modal Knowledge Distillation for 3D Detection ](#5)
+    - [5.1 LIDAR-Camera Fusion to LIDAR](#5.1)
+    - [5.2 LIDAR-Camera Fusion to Camera](#5.2)
   
+
+## The Paradigm of 3D Object Detection
 
 <a name="1"></a>
 
-## LiDAR-based 3D Object Detection
+This is the mainstream 3D object detection paradigm in 3D, mainly including three types. [[Back to content]](#0)
 
+### Point-based 3D object detection [[Papers]](Docs/Sensor/LiDAR/point_view.md)
 ![](Figs/lidarmap.JPG)
 
 A chronological overview of the most prestigious LiDAR-based 3D object detection methods. [[Back to content]](#0)
-
-<a name="1.1"></a>
-
-### Point-based 3D object detection [[Papers]](Docs/Sensor/LiDAR/point_view.md)
 
 ![](Figures/Point_based.png)
 
