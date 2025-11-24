@@ -37,9 +37,11 @@ We also provide a paper collection on 3D object detection for autonomous driving
     - [2.2 Relation distillation](#2.2)
     - [2.3 Respond distillation](#2.3)
 - [3. LIDAR to LIDAR Knowledge Distillation for 3D Detection](#3)
-    - [3.1 Less channels with distillation](#3.1)
-    - [3.2 Pruning with Distillation](#3.2)
-    - [3.3 Quantification with Distillation](#3.3)
+    - [3.1 Homogeneous distillation](#3.1)
+        - [3.1.1 Less channels with distillation](#3.1)
+        - [3.1.2 Pruning with Distillation](#3.2)
+        - [3.1.3 Quantification with Distillation](#3.3)
+    - [3.2 Heterogeneous distillation](#3.2)
 - [4. LIDAR to Camera Knowledge Distillation for 3D Detection](#4)
     - [4.1 LIDAR to monocular image for 3D object detection](#4.1)
     - [4.2 LIDAR to stereo image for 3D object detection](#4.2)
@@ -138,33 +140,46 @@ Respond distillation
 
 <a name="2.3"></a>
 
-## LIDAR to LIDAR Knowledge Distillation for 3D Object Detection?
+# LIDAR to LIDAR Knowledge Distillation for 3D Object Detection?
 
-Including Less channels with distillation, Pruning with Distillation and Quantification with Distillation.
+![](Figs/lidarmap.JPG)
+Including Homogeneous distillation and Heterogeneous distillation.
 
 <a name="3"></a>
+
+## Homogeneous distillation 
+<a name="3.1"></a>
 
 ### Less channels with distillation [[Papers]](Docs/Sensor/Camera/monocular.md)
 
 ![](Figures/KD_with_less_channles.png)
 Feature distillation 
 
-<a name="3.1"></a>
+<a name="3.1.1"></a>
 
 ### Pruning with Distillation [[Papers]](Docs/Sensor/Camera/stereo.md)
 
 ![](Figures/prune_with_distill.png)
 Relation distillation 
-<a name="3.2"></a>
+<a name="3.1.2"></a>
 
 ### Quantification with Distillation
 
 ![](Figures/prune_with_distill.png)
 Respond distillation 
 
-<a name="3.3"></a>
+<a name="3.1.3"></a>
 
+## Heterogeneous distillation
 
+<a name="3.2"></a>
+
+### Quantification with Distillation
+
+![](Figures/KD_for_Heterogeneous.png)
+Respond distillation 
+
+<a name="3.2"></a>
 
 
 
