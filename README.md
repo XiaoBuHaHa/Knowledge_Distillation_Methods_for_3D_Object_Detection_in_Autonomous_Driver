@@ -63,8 +63,8 @@ A chronological overview of the most influential LiDAR-based 3D object detection
 
 ![](Figures/Point_based.png)
 
-A general point-based detection framework contains a point-based backbone network and a prediction head. The point-based backbone consists of several blocks for point cloud
-sampling and feature learning, and the prediction head directly estimates 3D bounding boxes from the candidate points. 
+Traditional point-based methods generally consist of three main stages: sampling, feature learning, and final prediction. The sampling stage aims to select representative subsets of points from raw point clouds, with commonly used strategies including farthest point sampling (FPS) ,
+random sampling (RS) , density-based sampling (DS) ,and voxel-based sampling (VS). The sampled points are subsequently fed into a feature learning network—such as multi- layer perceptrons (MLPs) , transformers, or graph convolutional networks (Graph CNNs) [180]—to extract discriminative feature representations. Finally, a prediction head is employed to perform tasks such as 3D object detection and object localization.
 
 <a name="1.1.1"></a>
 
