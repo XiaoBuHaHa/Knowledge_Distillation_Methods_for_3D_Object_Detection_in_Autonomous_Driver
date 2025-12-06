@@ -241,7 +241,7 @@ None
 
 ## Acknowledgement
 
-Our code is heavily based on [OpenPCDet v0.2](https://github.com/open-mmlab/OpenPCDet/tree/v0.2.0) and [LIDAR Distill](https://github.com/weiyithu/LiDAR-Distillation?tab=readme-ov-file). Thanks OpenPCDet Development Team for their awesome codebase.
+Our code is heavily based on [ Awesome 3D Object Detection for Autonomous Driving]([https://github.com/open-mmlab/OpenPCDet/tree/v0.2.0](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving)) and [LIDAR Distill](https://github.com/weiyithu/LiDAR-Distillation?tab=readme-ov-file). Thanks OpenPCDet Development Team for their awesome codebase.
 
 ## Citation
 
