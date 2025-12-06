@@ -2,7 +2,7 @@
  We are constantly updating this project page. If you have any questions, please contact us [here](mailto:bch88888@s.ytu.edu.cn).
  > **![arXiv]():** 
 
-![overview](Figs/自动驾驶系统_图.png)
+![overview](Figures/Auto_drirver.png)
 
 This repository is with our [survey paper](https://arxiv.org/abs/2206.09474):
 
