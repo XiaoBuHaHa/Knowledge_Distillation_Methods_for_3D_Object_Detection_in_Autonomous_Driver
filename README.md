@@ -10,7 +10,9 @@ This repository is with our [survey paper](https://arxiv.org/abs/2206.09474):
 > arXiv preprint arXiv:<br>
 > **Publication:** None <br>
 
-We collect the most commonly used autonomous driving datasets, the current 3D object detection methods, and the knowledge distillation–based approaches for 3D object detection.
+We collect the most commonly used autonomous driving datasets, 
+the current 3D object detection methods
+the knowledge distillation–based approaches for 3D object detection.
 
 We also provide a paper collection on 3D object detection for autonomous driving at [Awesome 3D Object Detection for Autonomous Driving](Papers.md).
 
