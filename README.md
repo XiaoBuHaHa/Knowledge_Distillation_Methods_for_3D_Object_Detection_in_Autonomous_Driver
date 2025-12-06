@@ -55,6 +55,7 @@ the knowledge distillation–based approaches for 3D object detection at [3D Obj
 
 ## LiDAR-based 3D Object Detection
 <a name="1"></a>
+![](Figures/L-C_Fusion_Time.png)
 
 This is the mainstream 3D object detection paradigm in 3D, mainly including three types. 
 
