@@ -6,8 +6,7 @@
 This repository is with our [survey paper](https://arxiv.org/abs/2206.09474):
 
 > **Title:** A Comprehensive Review of Knowledge Distillation Methods for 3D Object detection in Autonomous Driving <br>
-> **Authors:** 
-> arXiv preprint arXiv:<br>
+> **Authors:** Changhong Bu,Weiqing Yan:<br>
 > **Publication:** None <br>
 
 We collect the most commonly used autonomous driving datasets at [Commonly Used Datasets for Autonomous Driving](Papers.md).  
