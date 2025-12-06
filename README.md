@@ -59,7 +59,7 @@ the knowledge distillation–based approaches for 3D object detection at [3D Obj
 
 A chronological overview of the most influential LiDAR-based 3D object detection methods.
 
-### Point-based 3D object detection [[Papers]](Docs/Sensor/LiDAR/point_view.md)
+### Point-based 3D object detection
 
 ![](Figs/lidarmap.JPG)
 
@@ -72,7 +72,7 @@ sampling and feature learning, and the prediction head directly estimates 3D bou
 
 <a name="1.1.1"></a>
 
-### Voxel-based 3D object detection [[Papers]](Docs/Sensor/LiDAR/volumetric_view.md)
+### Voxel-based 3D object detection
 
 ![](Figures/Voxel_based.png)
 
@@ -82,7 +82,7 @@ sparse neural networks are applied on grids for feature extraction. 3D objects a
 
 <a name="1.1.2"></a>
 
-### Point-voxel based 3D object detection [[Papers]](Docs/Sensor/LiDAR/mixed_views.md)
+### Point-voxel based 3D object detection
 
 ![](Figures/Point_Voxel_fusion_based.png)
 
@@ -100,15 +100,15 @@ A chronological overview of the most influential camera-based 3D object detectio
 
 <a name="1.2"></a>
 
-### Image-only monocular 3D object detection [[Papers]](Docs/Sensor/Camera/monocular.md)
+### Image-only monocular 3D object detection
 
 <a name="1.2.1"></a>
 
-### Stereo-based 3D object detection [[Papers]](Docs/Sensor/Camera/stereo.md)
+### Stereo-based 3D object detection 
 
 <a name="1.2.2"></a>
 
-### Multi-view-based 3D object detection [[Papers]](Docs/Sensor/Camera/multi-view.md)
+### Multi-view-based 3D object detection
 
 <a name="1.2.3"></a>
 
@@ -120,17 +120,16 @@ A chronological overview of the most influential LIDAR-Camera fusion methods for
 
 <a name="1.3"></a>
 
-### Early fusion for 3D object detection [[Papers]](Docs/Sensor/Camera/multi-view.md)
-
+### Early fusion for 3D object detection
 None
 <a name="1.3.1"></a>
 
-### Middle fusion for 3D object detection [[Papers]](Docs/Sensor/Camera/multi-view.md)
+### Middle fusion for 3D object detection
 
 None
 <a name="1.3.2"></a>
 
-### Late fusion for 3D object detection [[Papers]](Docs/Sensor/Camera/multi-view.md)
+### Late fusion for 3D object detection
 
 None
 <a name="1.3.3"></a>
@@ -141,14 +140,14 @@ Including characteristic distillation, relational distillation and response dist
 
 <a name="2"></a>
 
-## Feature distillation [[Papers]](Docs/Sensor/Camera/monocular.md)
+## Feature distillation
 
 ![](Figures/Feature_distillstion.png)
 Feature distillation 
 
 <a name="2.1"></a>
 
-## Relation distillation [[Papers]](Docs/Sensor/Camera/stereo.md)
+## Relation distillation
 
 ![](Figures/Relation_distillation.png)
 Relation distillation 
@@ -171,14 +170,14 @@ Including Homogeneous distillation and Heterogeneous distillation.
 ## Homogeneous distillation 
 <a name="3.1"></a>
 
-### Less channels with distillation [[Papers]](Docs/Sensor/Camera/monocular.md)
+### Less channels with distillation
 
 ![](Figures/KD_with_less_channles.png)
 Feature distillation 
 
 <a name="3.1.1"></a>
 
-### Pruning with Distillation [[Papers]](Docs/Sensor/Camera/stereo.md)
+### Pruning with Distillation
 
 ![](Figures/prune_with_distill.png)
 Relation distillation 
