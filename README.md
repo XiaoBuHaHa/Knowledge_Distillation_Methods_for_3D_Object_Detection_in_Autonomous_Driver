@@ -57,7 +57,7 @@ the knowledge distillation–based approaches for 3D object detection at [3D Obj
 <a name="1"></a>
 ![](Figures/L-C_Fusion_Time.png)
 
-This is the mainstream 3D object detection paradigm in 3D, mainly including three types. 
+A chronological overview of the most influential LiDAR-based 3D object detection methods.
 
 ### Point-based 3D object detection [[Papers]](Docs/Sensor/LiDAR/point_view.md)
 
@@ -94,9 +94,9 @@ proposals with a voxel-based 3D detector, and then refines these proposals using
 
 ## Camera-based 3D Object Detection
 
-![](Figs/lidarmap.JPG)
+![](Figures/Camera_Time.png)
 
-A chronological overview of the most prestigious Camera-based 3D object detection methods. 
+A chronological overview of the most influential camera-based 3D object detection methods.
 
 <a name="1.2"></a>
 
@@ -114,9 +114,9 @@ A chronological overview of the most prestigious Camera-based 3D object detectio
 
 ## Multi-Modal 3D Object Detection
 
-![](Figures/Multi-modal_based.png)
+![](Figures/L-C_Fusion_Time.png)
 
-A chronological overview of the most prestigious multi-modal 3D object detection methods.
+A chronological overview of the most influential LIDAR-Camera fusion methods for 3D object detection.
 
 <a name="1.3"></a>
 
