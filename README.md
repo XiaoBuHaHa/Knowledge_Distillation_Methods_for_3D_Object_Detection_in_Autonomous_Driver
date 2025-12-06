@@ -10,9 +10,9 @@ This repository is with our [survey paper](https://arxiv.org/abs/2206.09474):
 > arXiv preprint arXiv:<br>
 > **Publication:** None <br>
 
-We collect the most commonly used autonomous driving datasets at [Commonly used Datasets for Autonomous Driving](Papers.md).  
-the current 3D object detection methods at [3D object detection methods - LIDAR, Camera, LiDAR-Camera fusion](Papers.md).  
-the knowledge distillation–based approaches for 3D object detection at [3D object detection algorithm based on knowledge distillation](Papers.md).
+We collect the most commonly used autonomous driving datasets at [Commonly Used Datasets for Autonomous Driving](Papers.md).  
+the current 3D object detection methods at [3D Object Detection Methods -- LIDAR, Camera, LiDAR-Camera fusion](Papers.md).  
+the knowledge distillation–based approaches for 3D object detection at [3D Object Detection Algorithm Based on Knowledge Distillation](Papers.md).
 
 ## Content
 
