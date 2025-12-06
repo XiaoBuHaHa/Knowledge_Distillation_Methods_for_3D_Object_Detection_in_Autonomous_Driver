@@ -233,5 +233,46 @@ None
 
 ## LIDAR-Camera Fusion to Camera
 
+
+
+
+
+
+
+## Acknowledgement
+
+Our code is heavily based on [OpenPCDet v0.2](https://github.com/open-mmlab/OpenPCDet/tree/v0.2.0) and [LIDAR Distill](https://github.com/weiyithu/LiDAR-Distillation?tab=readme-ov-file). Thanks OpenPCDet Development Team for their awesome codebase.
+
+## Citation
+
+If you find this project useful in your research, please consider cite:
+```
+@article{wei2022lidar,
+  title={LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection},
+  author={Wei, Yi and Wei, Zibu and Rao, Yongming and Li, Jiaxin and Zhou, Jie and Lu, Jiwen},
+  journal={arXiv preprint arXiv:2203.14956},
+  year={2022}
+}
+```
+```
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 None
 <a name="5.2"></a>
