@@ -120,7 +120,7 @@ Multi-view-based 3D object detection leverages images captured from multiple cam
 A chronological overview of the most influential LIDAR-Camera fusion methods for 3D object detection in Autonomous Driving.
 
 ![](Figures/L-C_fusion_Frame.png)
-We integrate the three most common fusion strategies into a single framework to facilitate a clear comparison of their differences for the reader.
+We consolidate the three most common LiDAR–Camera fusion strategies into a unified framework, allowing readers to compare their differences and interconnections.
 
 <a name="1.3"></a>
 
