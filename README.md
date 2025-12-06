@@ -22,15 +22,15 @@ We also provide a paper collection on 3D object detection for autonomous driving
 - [1. The Paradigm of 3D Object Detection](#1)
     - [1.1 LiDAR-based 3D Object Detection](#1.1)
         - [1.1.1 Point-based 3D object detection](#1.1.1)
-        - [1.1.2 Grid-based 3D object detection](#1.1.2)
-        - [1.1.3 Point-voxel based 3D object detection](#1.1.3)
+        - [1.1.2 Voxel-based 3D object detection](#1.1.2)
+        - [1.1.3 Point-voxel fusion based 3D object detection](#1.1.3)
     - [1.2 Camera-based 3D Object Detection](#1.2)
         - [1.2.1 Monocular 3D object detection](#1.2.1)
         - [1.2.2 Stereo-based 3D object detection](#1.2.2)
         - [1.2.3 Multi-view 3D object detection](#1.2.3)
     - [1.3 Multi-Modal 3D Object Detection](#1.3)
         - [1.3.1 Early-fusion based 3D object detection](#1.3.1)
-        - [1.3.2 Intermediate-fusion based 3D object detection](#1.3.2)
+        - [1.3.2 Middile-fusion based 3D object detection](#1.3.2)
         - [1.3.3 Late-fusion based 3D object detection](#1.3.3)
 - [2. What is Knowledge Distillation (Feature distillation,Relation distillation,Respond distillation) ](#2)
     - [2.1 Feature distillation](#2.1)
@@ -38,9 +38,8 @@ We also provide a paper collection on 3D object detection for autonomous driving
     - [2.3 Respond distillation](#2.3)
 - [3. LIDAR to LIDAR Knowledge Distillation for 3D Detection](#3)
     - [3.1 Homogeneous distillation](#3.1)
-        - [3.1.1 Less channels with distillation](#3.1)
-        - [3.1.2 Pruning with Distillation](#3.2)
-        - [3.1.3 Quantification with Distillation](#3.3)
+        - [3.1.1 Pruning with Distillation](#3.1)
+        - [3.1.2 Quantification with Distillation](#3.2)
     - [3.2 Heterogeneous distillation](#3.2)
 - [4. LIDAR to Camera Knowledge Distillation for 3D Detection](#4)
     - [4.1 LIDAR to monocular image for 3D object detection](#4.1)
@@ -52,7 +51,7 @@ We also provide a paper collection on 3D object detection for autonomous driving
   
 
 # The Paradigm of 3D Object Detection
-None
+![](Figs/lidarmap.JPG)
 
 ## LiDAR-based 3D Object Detection
 <a name="1"></a>
