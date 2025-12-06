@@ -57,7 +57,7 @@ the knowledge distillation–based approaches for 3D object detection at [3D Obj
 <a name="1"></a>
 ![](Figures/L-C_Fusion_Time.png)
 
-A chronological overview of the most influential LiDAR-based 3D object detection methods.
+A chronological overview of the most influential LiDAR-based 3D object detection methods in Autonomous Driving.
 
 ### Point-based 3D object detection
 
@@ -72,9 +72,7 @@ random sampling (RS) , density-based sampling (DS) ,and voxel-based sampling (VS
 
 ![](Figures/Voxel_based.png)
 
-The grid-based approaches rasterize point cloud into
-3 grid representations: voxels, pillars, and bird’s-eye view (BEV) feature maps. 2D convolutional neural networks or 3D
-sparse neural networks are applied on grids for feature extraction. 3D objects are finally predicted from BEV grid cells. 
+Voxel-based 3D object detection methods provide a structured representation for feature extraction and bounding box prediction by discretizing unordered point clouds into regular 3D voxel grids. Two common types of voxel-based methods are voxel grid–based and pillar grid–based approaches. After voxelization, the encoded voxels are fed into feature learning networks for representation extraction, and the learned features are typically projected onto the bird’s-eye view (BEV)plane for final prediction.
 
 <a name="1.1.2"></a>
 
@@ -82,9 +80,7 @@ sparse neural networks are applied on grids for feature extraction. 3D objects a
 
 ![](Figures/Point_Voxel_fusion_based.png)
 
-Single-stage point-voxel detection framework fuses
-point and voxel features in the backbone network. Two-stage point-voxel detection framework first generates 3D object
-proposals with a voxel-based 3D detector, and then refines these proposals using keypoints sampled from point cloud. 
+Hybrid point-voxel-based 3D object detection achieves significant performance improvements by leveraging the complementary properties of point clouds and voxels.
 
 <a name="1.1.3"></a>
 
