@@ -51,7 +51,7 @@ We also provide a paper collection on 3D object detection for autonomous driving
   
 
 # The Paradigm of 3D Object Detection
-![](Figs/lidarmap.JPG)
+![](Figures/Auto_driver_in_3D_detection.png)
 
 ## LiDAR-based 3D Object Detection
 <a name="1"></a>
