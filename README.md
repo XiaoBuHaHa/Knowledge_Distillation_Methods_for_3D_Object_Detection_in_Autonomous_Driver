@@ -241,8 +241,8 @@ None
 
 ## Acknowledgement
 
-Our code is heavily based on [Awesome 3D Object Detection for Autonomous Driving](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving) and [When Object Detection Meets Knowledge
-Distillation](https://ieeexplore.ieee.org/document/10070820)  and [Multi-Modal 3D Object Detection in Autonomous Driving](https://link.springer.com/article/10.1007/s11263-023-01784-z).
+We express our gratitude to the following works, whose contributions greatly facilitate our research-- [Awesome 3D Object Detection for Autonomous Driving:A Comprehensive Survey](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving) and [When Object Detection Meets Knowledge
+Distillation:A Survey](https://ieeexplore.ieee.org/document/10070820) and [Multi-Modal 3D Object Detection in Autonomous Driving:A Survey](https://link.springer.com/article/10.1007/s11263-023-01784-z).
 
 ## Citation
 
