@@ -61,10 +61,6 @@ A chronological overview of the most influential LiDAR-based 3D object detection
 
 ### Point-based 3D object detection
 
-![](Figs/lidarmap.JPG)
-
-A chronological overview of the most prestigious LiDAR-based 3D object detection methods. 
-
 ![](Figures/Point_based.png)
 
 A general point-based detection framework contains a point-based backbone network and a prediction head. The point-based backbone consists of several blocks for point cloud
