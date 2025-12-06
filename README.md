@@ -105,9 +105,13 @@ Monocular 3D object detection typically begins with capturing an RGB image from 
 
 <a name="1.2.2"></a>
 
+Stereo-based 3D object detection first captures synchronized left and right images, from which a disparity map is computed to estimate pixel-wise depth. Features are then extracted from the RGB images and optionally fused with depth information to enhance geometric and semantic representations. Using 2D detections or depth cues, candidate 3D bounding boxes are generated, followed by feature fusion and regression to estimate their precise 3D location, size, and orientation. Each candidate is classified and scored, and redundant detections are removed using techniques such as non-maximum suppression, yielding the final 3D object predictions for downstream tasks like autonomous driving and scene understanding.
+
 ### Multi-view-based 3D object detection
 
 <a name="1.2.3"></a>
+
+Multi-view-based 3D object detection leverages images captured from multiple camera perspectives around the scene to reconstruct a comprehensive 3D representation. Features are extracted from each view using convolutional neural networks and then fused into a unified 3D space, often via voxelization, bird’s-eye-view (BEV) projection, or learned feature aggregation. Candidate 3D bounding boxes are generated based on the fused 3D features, followed by regression to estimate their precise positions, dimensions, and orientations. Each candidate is classified and scored, and redundant detections are suppressed, producing final 3D object predictions that benefit from the complementary information provided by multiple viewpoints for enhanced detection accuracy and robustness.
 
 ## Multi-Modal 3D Object Detection
 
