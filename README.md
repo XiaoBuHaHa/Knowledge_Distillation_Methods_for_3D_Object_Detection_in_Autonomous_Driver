@@ -53,6 +53,8 @@ the knowledge distillation–based approaches for 3D object detection at [3D Obj
 # The Paradigm of 3D Object Detection
 ![](Figures/Auto_driver_in_3D_detection.png)
 
+The pipeline of 3D object detection, ranging from heterogeneous sensor inputs and multimodal data processing to lightweight model optimization with knowledge distillation, and culminating in the final prediction stage.
+
 ## LiDAR-based 3D Object Detection
 <a name="1"></a>
 ![](Figures/L-C_Fusion_Time.png)
