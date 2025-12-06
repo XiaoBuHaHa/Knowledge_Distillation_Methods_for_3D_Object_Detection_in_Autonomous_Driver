@@ -15,7 +15,7 @@ We also provide a paper collection on 3D object detection for autonomous driving
 
 ## Content
 
-![taxonomy](Figs/tax.JPG)
+![taxonomy](Figures/Paper_Structure.png)
 
 <a name="0"></a>
 
