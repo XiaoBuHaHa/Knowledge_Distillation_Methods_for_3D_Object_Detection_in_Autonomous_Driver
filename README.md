@@ -90,13 +90,15 @@ Hybrid point-voxel-based 3D object detection achieves significant performance im
 
 ![](Figures/Camera_Time.png)
 
-A chronological overview of the most influential camera-based 3D object detection methods.
+A chronological overview of the most influential Camera-based 3D object detection methods in Autonomous Driving.
 
 <a name="1.2"></a>
 
-### Image-only monocular 3D object detection
+### monocular-based 3D object detection
 
 <a name="1.2.1"></a>
+
+Monocular 3D object detection typically begins with capturing an RGB image from a single camera. The image is then processed to extract 2D features, such as object locations, semantic cues, and geometric information. Depth estimation or geometric priors are often employed to infer the missing 3D information. These features are subsequently integrated to predict the three-dimensional bounding boxes, including the position, dimensions, and orientation of each object in the scene. Finally, post-processing steps, such as non-maximum suppression or refinement modules, are applied to produce the final 3D detection results.
 
 ### Stereo-based 3D object detection 
 
@@ -110,7 +112,7 @@ A chronological overview of the most influential camera-based 3D object detectio
 
 ![](Figures/L-C_Fusion_Time.png)
 
-A chronological overview of the most influential LIDAR-Camera fusion methods for 3D object detection.
+A chronological overview of the most influential LIDAR-Camera fusion methods for 3D object detection in Autonomous Driving.
 
 <a name="1.3"></a>
 
