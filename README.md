@@ -241,17 +241,22 @@ None
 
 ## Acknowledgement
 
-Our code is heavily based on [Awesome 3D Object Detection for Autonomous Driving](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving) and [LIDAR Distill](https://github.com/weiyithu/LiDAR-Distillation?tab=readme-ov-file). Thanks OpenPCDet Development Team for their awesome codebase.
+Our code is heavily based on [Awesome 3D Object Detection for Autonomous Driving](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving) and [When Object Detection Meets Knowledge
+Distillation](https://ieeexplore.ieee.org/document/10070820)  and [Multi-Modal 3D Object Detection in Autonomous Driving](https://link.springer.com/article/10.1007/s11263-023-01784-z).
 
 ## Citation
 
 If you find this project useful in your research, please consider cite:
 ```
-@article{wei2022lidar,
-  title={LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection},
-  author={Wei, Yi and Wei, Zibu and Rao, Yongming and Li, Jiaxin and Zhou, Jie and Lu, Jiwen},
-  journal={arXiv preprint arXiv:2203.14956},
-  year={2022}
+@article{mao20233d,
+  title={3D object detection for autonomous driving: A comprehensive survey},
+  author={Mao, Jiageng and Shi, Shaoshuai and Wang, Xiaogang and Li, Hongsheng},
+  journal={International Journal of Computer Vision},
+  volume={131},
+  number={8},
+  pages={1909--1963},
+  year={2023},
+  publisher={Springer}
 }
 ```
 ```
