@@ -1,9 +1,9 @@
-# A Comprehensive Review of Knowledge Distillation Methods for 3D Object detection in Autonomous Driving (2025)
+# A Comprehensive Review of Knowledge Distillation Methods for 3D Object detection in Autonomous Driving (2026)
  We are constantly updating this project page. If you have any questions, please contact us [here](mailto:bch88888@s.ytu.edu.cn).
 
 ![overview](Figures/Auto_drirver.png)
 
-This repository is with our [survey paper]((https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6695711)):
+This repository is with our [survey paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6695711):
 
 > **Title:** A Comprehensive Review of Knowledge Distillation Methods for 3D Object detection in Autonomous Driving <br>
 > **Authors:** :<br>
