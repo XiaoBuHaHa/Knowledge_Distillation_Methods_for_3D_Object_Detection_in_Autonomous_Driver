@@ -3,7 +3,7 @@
 
 ![overview](Figures/Auto_drirver.png)
 
-This paper has been accepted by *Information Fusion*, and the repository is with our [survey paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6695711):
+This paper has been accepted by [*Information Fusion*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6695711), and the repository is with our [survey paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6695711):
 
 > **Title:** A Comprehensive Review of Knowledge Distillation Methods for 3D Object detection in Autonomous Driving <br>
 > **Authors:** :<br>
