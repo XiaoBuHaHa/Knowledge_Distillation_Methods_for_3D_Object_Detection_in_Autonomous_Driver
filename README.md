@@ -253,18 +253,21 @@ Distillation:A Survey](https://ieeexplore.ieee.org/document/10070820) and [Multi
 
 If you find this project useful in your research, please consider cite:
 ```
-@article{mao20233d,
-  title={3D object detection for autonomous driving: A comprehensive survey},
-  author={Mao, Jiageng and Shi, Shaoshuai and Wang, Xiaogang and Li, Hongsheng},
-  journal={International Journal of Computer Vision},
-  volume={131},
-  number={8},
-  pages={1909--1963},
-  year={2023},
-  publisher={Springer}
+@article{yan66957113d,
+  title={3D Object Detection and Knowledge Distillation in Autonomous Driving: A Survey},
+  author={Yan, Weiqing and Bu, Changhong and Zhang, Yuanyang and Yue, Guanghui and Zhou, Wei and Zhu, Xiatian and Han, Jungong},
+  journal={Available at SSRN 6695711}
 }
+
 ```
 ```
+@article{bu2026dynamic,
+  title={Dynamic Riemannian Geometry Relational Distillation for Lightweight 3D Object Detection},
+  author={Bu, Changhong and Yan, Weiqing and Liu, Zhaowei and Song, Yongchao and Tang, Chang},
+  journal={IEEE Transactions on Artificial Intelligence},
+  year={2026},
+  publisher={IEEE}
+}
 
 
 
