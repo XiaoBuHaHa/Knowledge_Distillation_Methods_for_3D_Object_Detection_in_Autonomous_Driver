@@ -3,7 +3,7 @@
 
 ![overview](Figures/Auto_drirver.png)
 
-This repository is with our [survey paper](https://arxiv.org/abs/2206.09474):
+This repository is with our [survey paper]([https://arxiv.org/abs/2206.09474](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6695711)):
 
 > **Title:** A Comprehensive Review of Knowledge Distillation Methods for 3D Object detection in Autonomous Driving <br>
 > **Authors:** :<br>
